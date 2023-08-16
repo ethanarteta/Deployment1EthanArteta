@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://github.com/kura-labs-org/kuralabs_deployment_1/blob/main/Kuralogo.png">
+</p>
+<h1 align="center">C4_deployment-1<h1> 
+
 Downloaded Github files from KuraLabs
 Un-zipped the files and copied files
 Made new Repository and pasted the files
@@ -7,3 +12,4 @@ Generated New Token from Github
 Made new credentials for Jenkins to deploy the Github Files
 Applied and saved pipeline build
 Successfully ran the application with no errors
+Downloaded zip folders for manual deployment onto elastic beanstalk
