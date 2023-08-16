@@ -13,3 +13,4 @@ Made new credentials for Jenkins to deploy the Github Files
 Applied and saved pipeline build
 Successfully ran the application with no errors
 Downloaded zip folders for manual deployment onto elastic beanstalk
+![image](https://github.com/ethanarteta/Deployment1EthanArteta/blob/7293a65e50d3255ba413608ab76672e8d18df7dc/Deployment%201.png)
